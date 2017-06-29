@@ -1,5 +1,5 @@
 {
-  "name": "platzom",
+  "name": "platzom_test_44",
   "version": "0.1.0",
   "description": "Traductor de idioma platzom",
   "main": "dist/src/platzom.js",
@@ -29,5 +29,13 @@
     "babel-preset-env": "^1.5.2",
     "chai": "^4.0.2",
     "mocha": "^3.4.2"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-preset-env": "^1.5.2",
+    "chai": "^4.0.2"
   }
 }

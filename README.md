@@ -28,7 +28,7 @@ platzom("sometemos") // SoMeTeMoS
 ```
 
 ## Créditos
-- [German Casas](https://twitter.com/mexicalidev)
+- [German Casas](https://twitter.com/Gern_44)
 
 ## Licencia
 
